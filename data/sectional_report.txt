@@ -1,0 +1,400 @@
+=== RONGORONGO SECTIONAL ANALYSIS ===
+
+Tablets analyzed: 15
+Total glyphs: 2677
+
+--- A Tahua Recto ---
+  Glyphs: 167
+  Lines:  0
+  Frobenius closure: 0.750
+  Dominant family: parity
+  Family distribution:
+    Φ parity              45 (26.9%)
+    ƒ fidelity            37 (22.2%)
+    ɢ composition         31 (18.6%)
+    Ð dimensionality      22 (13.2%)
+    Ω winding             12 (7.2%)
+    Þ topology             7 (4.2%)
+    φ̂ criticality          4 (2.4%)
+    Ř coupling             4 (2.4%)
+    Γ cardinality          3 (1.8%)
+    Σ stoichiometry        1 (0.6%)
+    Ç kinetics             1 (0.6%)
+
+--- B Aruku Kurenga Recto ---
+  Glyphs: 252
+  Lines:  0
+  Frobenius closure: 0.762
+  Dominant family: parity
+  Family distribution:
+    Φ parity              69 (27.4%)
+    ƒ fidelity            55 (21.8%)
+    ɢ composition         48 (19.0%)
+    Ð dimensionality      32 (12.7%)
+    Ω winding             16 (6.3%)
+    Þ topology            11 (4.4%)
+    Ř coupling             7 (2.8%)
+    φ̂ criticality          5 (2.0%)
+    Γ cardinality          5 (2.0%)
+    Σ stoichiometry        3 (1.2%)
+    Ç kinetics             1 (0.4%)
+
+--- C Mamari Recto ---
+  Glyphs: 280
+  Lines:  0
+  Frobenius closure: 0.800
+  Dominant family: parity
+  Family distribution:
+    Φ parity              72 (25.7%)
+    ƒ fidelity            63 (22.5%)
+    ɢ composition         55 (19.6%)
+    Ð dimensionality      43 (15.4%)
+    Ω winding             16 (5.7%)
+    Þ topology            10 (3.6%)
+    Γ cardinality          7 (2.5%)
+    Ř coupling             6 (2.1%)
+    Σ stoichiometry        4 (1.4%)
+    φ̂ criticality          4 (1.4%)
+
+--- C Mamari Verso ---
+  Glyphs: 280
+  Lines:  0
+  Frobenius closure: 0.800
+  Dominant family: parity
+  Family distribution:
+    Φ parity              72 (25.7%)
+    ƒ fidelity            63 (22.5%)
+    ɢ composition         55 (19.6%)
+    Ð dimensionality      43 (15.4%)
+    Ω winding             16 (5.7%)
+    Þ topology            10 (3.6%)
+    Γ cardinality          7 (2.5%)
+    Ř coupling             6 (2.1%)
+    Σ stoichiometry        4 (1.4%)
+    φ̂ criticality          4 (1.4%)
+
+--- D Echancrée Recto ---
+  Glyphs: 83
+  Lines:  0
+  Frobenius closure: 0.778
+  Dominant family: parity
+  Family distribution:
+    Φ parity              22 (26.5%)
+    ƒ fidelity            19 (22.9%)
+    ɢ composition         15 (18.1%)
+    Ð dimensionality      11 (13.3%)
+    Ω winding              7 (8.4%)
+    Þ topology             4 (4.8%)
+    Ř coupling             3 (3.6%)
+    φ̂ criticality          2 (2.4%)
+
+--- E Keiti Recto ---
+  Glyphs: 231
+  Lines:  0
+  Frobenius closure: 0.680
+  Dominant family: parity
+  Family distribution:
+    Φ parity              62 (26.8%)
+    ƒ fidelity            53 (22.9%)
+    ɢ composition         45 (19.5%)
+    Ð dimensionality      27 (11.7%)
+    Ω winding             17 (7.4%)
+    Þ topology             9 (3.9%)
+    φ̂ criticality          8 (3.5%)
+    Ř coupling             7 (3.0%)
+    Γ cardinality          2 (0.9%)
+    Σ stoichiometry        1 (0.4%)
+
+--- G Small Santiago Recto ---
+  Glyphs: 168
+  Lines:  0
+  Frobenius closure: 0.786
+  Dominant family: parity
+  Family distribution:
+    Φ parity              47 (28.0%)
+    ƒ fidelity            38 (22.6%)
+    ɢ composition         32 (19.0%)
+    Ð dimensionality      22 (13.1%)
+    Ω winding             11 (6.5%)
+    Þ topology             7 (4.2%)
+    Ř coupling             4 (2.4%)
+    φ̂ criticality          3 (1.8%)
+    Γ cardinality          2 (1.2%)
+    Σ stoichiometry        2 (1.2%)
+
+--- H Large Santiago Recto ---
+  Glyphs: 210
+  Lines:  0
+  Frobenius closure: 0.722
+  Dominant family: parity
+  Family distribution:
+    Φ parity              59 (28.1%)
+    ƒ fidelity            48 (22.9%)
+    ɢ composition         36 (17.1%)
+    Ð dimensionality      27 (12.9%)
+    Ω winding             13 (6.2%)
+    Þ topology            10 (4.8%)
+    Ř coupling             7 (3.3%)
+    φ̂ criticality          5 (2.4%)
+    Σ stoichiometry        2 (1.0%)
+    Γ cardinality          2 (1.0%)
+    Ç kinetics             1 (0.5%)
+
+--- I Santiago Staff ---
+  Glyphs: 231
+  Lines:  0
+  Frobenius closure: 0.800
+  Dominant family: parity
+  Family distribution:
+    Φ parity              64 (27.7%)
+    ƒ fidelity            51 (22.1%)
+    ɢ composition         42 (18.2%)
+    Ð dimensionality      30 (13.0%)
+    Ω winding             16 (6.9%)
+    Þ topology             9 (3.9%)
+    Ř coupling             8 (3.5%)
+    φ̂ criticality          4 (1.7%)
+    Γ cardinality          4 (1.7%)
+    Σ stoichiometry        2 (0.9%)
+    Ç kinetics             1 (0.4%)
+
+--- K Small London Recto ---
+  Glyphs: 84
+  Lines:  0
+  Frobenius closure: 0.667
+  Dominant family: parity
+  Family distribution:
+    Φ parity              22 (26.2%)
+    ƒ fidelity            19 (22.6%)
+    ɢ composition         15 (17.9%)
+    Ð dimensionality      12 (14.3%)
+    Ω winding              6 (7.1%)
+    Þ topology             4 (4.8%)
+    Ř coupling             3 (3.6%)
+    φ̂ criticality          3 (3.6%)
+
+--- N Small Vienna Recto ---
+  Glyphs: 83
+  Lines:  0
+  Frobenius closure: 0.778
+  Dominant family: parity
+  Family distribution:
+    Φ parity              24 (28.9%)
+    ƒ fidelity            19 (22.9%)
+    ɢ composition         14 (16.9%)
+    Ð dimensionality       9 (10.8%)
+    Ω winding              7 (8.4%)
+    Þ topology             4 (4.8%)
+    Ř coupling             2 (2.4%)
+    φ̂ criticality          2 (2.4%)
+    Γ cardinality          1 (1.2%)
+    Σ stoichiometry        1 (1.2%)
+
+--- P Large StP Recto ---
+  Glyphs: 210
+  Lines:  0
+  Frobenius closure: 0.737
+  Dominant family: parity
+  Family distribution:
+    Φ parity              58 (27.6%)
+    ƒ fidelity            46 (21.9%)
+    ɢ composition         38 (18.1%)
+    Ð dimensionality      27 (12.9%)
+    Ω winding             14 (6.7%)
+    Þ topology            10 (4.8%)
+    Ř coupling             7 (3.3%)
+    φ̂ criticality          5 (2.4%)
+    Σ stoichiometry        2 (1.0%)
+    Γ cardinality          2 (1.0%)
+    Ç kinetics             1 (0.5%)
+
+--- Q Small StP Recto ---
+  Glyphs: 126
+  Lines:  0
+  Frobenius closure: 0.727
+  Dominant family: parity
+  Family distribution:
+    Φ parity              34 (27.0%)
+    ƒ fidelity            28 (22.2%)
+    ɢ composition         23 (18.3%)
+    Ð dimensionality      17 (13.5%)
+    Ω winding              8 (6.3%)
+    Þ topology             6 (4.8%)
+    Ř coupling             3 (2.4%)
+    φ̂ criticality          3 (2.4%)
+    Γ cardinality          2 (1.6%)
+    Σ stoichiometry        2 (1.6%)
+
+--- R Small Washington Recto ---
+  Glyphs: 104
+  Lines:  0
+  Frobenius closure: 0.700
+  Dominant family: parity
+  Family distribution:
+    Φ parity              29 (27.9%)
+    ƒ fidelity            23 (22.1%)
+    ɢ composition         17 (16.3%)
+    Ð dimensionality      15 (14.4%)
+    Ω winding              7 (6.7%)
+    Þ topology             5 (4.8%)
+    Ř coupling             3 (2.9%)
+    φ̂ criticality          3 (2.9%)
+    Γ cardinality          1 (1.0%)
+    Σ stoichiometry        1 (1.0%)
+
+--- S Large Washington Recto ---
+  Glyphs: 168
+  Lines:  0
+  Frobenius closure: 0.786
+  Dominant family: parity
+  Family distribution:
+    Φ parity              48 (28.6%)
+    ƒ fidelity            38 (22.6%)
+    ɢ composition         31 (18.5%)
+    Ð dimensionality      21 (12.5%)
+    Ω winding             11 (6.5%)
+    Þ topology             8 (4.8%)
+    Ř coupling             4 (2.4%)
+    φ̂ criticality          3 (1.8%)
+    Γ cardinality          2 (1.2%)
+    Σ stoichiometry        2 (1.2%)
+
+=== CROSS-TABLET STRUCTURAL COMPARISON ===
+
+Tablet                Glyphs  Lines   Frob Dominant Family  Dominant Op
+--------------------------------------------------------------------------------
+A Tahua Recto            167      0  0.750 Φ parity         TWIN
+B Aruku Kurenga Recto     252      0  0.762 Φ parity         TWIN
+C Mamari Recto           280      0  0.800 Φ parity         TWIN
+C Mamari Verso           280      0  0.800 Φ parity         TWIN
+D Echancrée Recto         83      0  0.778 Φ parity         TWIN
+E Keiti Recto            231      0  0.680 Φ parity         TWIN
+G Small Santiago Recto     168      0  0.786 Φ parity         TWIN
+H Large Santiago Recto     210      0  0.722 Φ parity         TWIN
+I Santiago Staff         231      0  0.800 Φ parity         TWIN
+K Small London Recto      84      0  0.667 Φ parity         TWIN
+N Small Vienna Recto      83      0  0.778 Φ parity         TWIN
+P Large StP Recto        210      0  0.737 Φ parity         TWIN
+Q Small StP Recto        126      0  0.727 Φ parity         TWIN
+R Small Washington Recto     104      0  0.700 Φ parity         TWIN
+S Large Washington Recto     168      0  0.786 Φ parity         TWIN
+
+--- Aggregate Family Distribution ---
+  Φ parity              727 (27.2%)
+  ƒ fidelity            600 (22.4%)
+  ɢ composition         497 (18.6%)
+  Ð dimensionality      358 (13.4%)
+  Ω winding             177 (6.6%)
+  Þ topology            114 (4.3%)
+  Ř coupling             74 (2.8%)
+  φ̂ criticality          58 (2.2%)
+  Γ cardinality          40 (1.5%)
+  Σ stoichiometry        27 (1.0%)
+  Ç kinetics              5 (0.2%)
+
+--- Tablet Similarity (by family distribution) ---
+  A Tahua Recto ↔ B Aruku Kurenga Recto: 0.999
+  A Tahua Recto ↔ C Mamari Recto: 0.997
+  A Tahua Recto ↔ C Mamari Verso: 0.997
+  A Tahua Recto ↔ D Echancrée Recto: 0.998
+  A Tahua Recto ↔ E Keiti Recto: 0.998
+  A Tahua Recto ↔ G Small Santiago Recto: 0.999
+  A Tahua Recto ↔ H Large Santiago Recto: 0.998
+  A Tahua Recto ↔ I Santiago Staff: 0.999
+  A Tahua Recto ↔ K Small London Recto: 0.997
+  A Tahua Recto ↔ N Small Vienna Recto: 0.996
+  A Tahua Recto ↔ P Large StP Recto: 0.999
+  A Tahua Recto ↔ Q Small StP Recto: 0.999
+  A Tahua Recto ↔ R Small Washington Recto: 0.997
+  A Tahua Recto ↔ S Large Washington Recto: 0.999
+  B Aruku Kurenga Recto ↔ C Mamari Recto: 0.997
+  B Aruku Kurenga Recto ↔ C Mamari Verso: 0.997
+  B Aruku Kurenga Recto ↔ D Echancrée Recto: 0.996
+  B Aruku Kurenga Recto ↔ E Keiti Recto: 0.998
+  B Aruku Kurenga Recto ↔ G Small Santiago Recto: 1.000
+  B Aruku Kurenga Recto ↔ H Large Santiago Recto: 0.998
+  B Aruku Kurenga Recto ↔ I Santiago Staff: 0.999
+  B Aruku Kurenga Recto ↔ K Small London Recto: 0.996
+  B Aruku Kurenga Recto ↔ N Small Vienna Recto: 0.995
+  B Aruku Kurenga Recto ↔ P Large StP Recto: 0.999
+  B Aruku Kurenga Recto ↔ Q Small StP Recto: 0.999
+  B Aruku Kurenga Recto ↔ R Small Washington Recto: 0.996
+  B Aruku Kurenga Recto ↔ S Large Washington Recto: 0.999
+  C Mamari Recto ↔ C Mamari Verso: 1.000
+  C Mamari Recto ↔ D Echancrée Recto: 0.992
+  C Mamari Recto ↔ E Keiti Recto: 0.993
+  C Mamari Recto ↔ G Small Santiago Recto: 0.996
+  C Mamari Recto ↔ H Large Santiago Recto: 0.993
+  C Mamari Recto ↔ I Santiago Staff: 0.996
+  C Mamari Recto ↔ K Small London Recto: 0.994
+  C Mamari Recto ↔ N Small Vienna Recto: 0.987
+  C Mamari Recto ↔ P Large StP Recto: 0.995
+  C Mamari Recto ↔ Q Small StP Recto: 0.997
+  C Mamari Recto ↔ R Small Washington Recto: 0.993
+  C Mamari Recto ↔ S Large Washington Recto: 0.994
+  C Mamari Verso ↔ D Echancrée Recto: 0.992
+  C Mamari Verso ↔ E Keiti Recto: 0.993
+  C Mamari Verso ↔ G Small Santiago Recto: 0.996
+  C Mamari Verso ↔ H Large Santiago Recto: 0.993
+  C Mamari Verso ↔ I Santiago Staff: 0.996
+  C Mamari Verso ↔ K Small London Recto: 0.994
+  C Mamari Verso ↔ N Small Vienna Recto: 0.987
+  C Mamari Verso ↔ P Large StP Recto: 0.995
+  C Mamari Verso ↔ Q Small StP Recto: 0.997
+  C Mamari Verso ↔ R Small Washington Recto: 0.993
+  C Mamari Verso ↔ S Large Washington Recto: 0.994
+  D Echancrée Recto ↔ E Keiti Recto: 0.998
+  D Echancrée Recto ↔ G Small Santiago Recto: 0.997
+  D Echancrée Recto ↔ H Large Santiago Recto: 0.997
+  D Echancrée Recto ↔ I Santiago Staff: 0.997
+  D Echancrée Recto ↔ K Small London Recto: 0.999
+  D Echancrée Recto ↔ N Small Vienna Recto: 0.995
+  D Echancrée Recto ↔ P Large StP Recto: 0.998
+  D Echancrée Recto ↔ Q Small StP Recto: 0.997
+  D Echancrée Recto ↔ R Small Washington Recto: 0.997
+  D Echancrée Recto ↔ S Large Washington Recto: 0.997
+  E Keiti Recto ↔ G Small Santiago Recto: 0.998
+  E Keiti Recto ↔ H Large Santiago Recto: 0.997
+  E Keiti Recto ↔ I Santiago Staff: 0.997
+  E Keiti Recto ↔ K Small London Recto: 0.997
+  E Keiti Recto ↔ N Small Vienna Recto: 0.996
+  E Keiti Recto ↔ P Large StP Recto: 0.998
+  E Keiti Recto ↔ Q Small StP Recto: 0.997
+  E Keiti Recto ↔ R Small Washington Recto: 0.994
+  E Keiti Recto ↔ S Large Washington Recto: 0.997
+  G Small Santiago Recto ↔ H Large Santiago Recto: 0.999
+  G Small Santiago Recto ↔ I Santiago Staff: 0.999
+  G Small Santiago Recto ↔ K Small London Recto: 0.996
+  G Small Santiago Recto ↔ N Small Vienna Recto: 0.996
+  G Small Santiago Recto ↔ P Large StP Recto: 0.999
+  G Small Santiago Recto ↔ Q Small StP Recto: 0.999
+  G Small Santiago Recto ↔ R Small Washington Recto: 0.997
+  G Small Santiago Recto ↔ S Large Washington Recto: 1.000
+  H Large Santiago Recto ↔ I Santiago Staff: 0.999
+  H Large Santiago Recto ↔ K Small London Recto: 0.997
+  H Large Santiago Recto ↔ N Small Vienna Recto: 0.997
+  H Large Santiago Recto ↔ P Large StP Recto: 0.999
+  H Large Santiago Recto ↔ Q Small StP Recto: 0.999
+  H Large Santiago Recto ↔ R Small Washington Recto: 0.999
+  H Large Santiago Recto ↔ S Large Washington Recto: 0.999
+  I Santiago Staff ↔ K Small London Recto: 0.997
+  I Santiago Staff ↔ N Small Vienna Recto: 0.996
+  I Santiago Staff ↔ P Large StP Recto: 0.999
+  I Santiago Staff ↔ Q Small StP Recto: 0.999
+  I Santiago Staff ↔ R Small Washington Recto: 0.998
+  I Santiago Staff ↔ S Large Washington Recto: 0.999
+  K Small London Recto ↔ N Small Vienna Recto: 0.993
+  K Small London Recto ↔ P Large StP Recto: 0.998
+  K Small London Recto ↔ Q Small StP Recto: 0.997
+  K Small London Recto ↔ R Small Washington Recto: 0.998
+  K Small London Recto ↔ S Large Washington Recto: 0.996
+  N Small Vienna Recto ↔ P Large StP Recto: 0.997
+  N Small Vienna Recto ↔ Q Small StP Recto: 0.995
+  N Small Vienna Recto ↔ R Small Washington Recto: 0.995
+  N Small Vienna Recto ↔ S Large Washington Recto: 0.998
+  P Large StP Recto ↔ Q Small StP Recto: 0.999
+  P Large StP Recto ↔ R Small Washington Recto: 0.998
+  P Large StP Recto ↔ S Large Washington Recto: 0.999
+  Q Small StP Recto ↔ R Small Washington Recto: 0.998
+  Q Small StP Recto ↔ S Large Washington Recto: 0.999
+  R Small Washington Recto ↔ S Large Washington Recto: 0.997

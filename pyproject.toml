@@ -1,0 +1,17 @@
+[project]
+name = "rongorongo-tau"
+version = "1.0.0"
+description = "Rongorongo Tau — ritual formula variation tracker for Easter Island rongorongo"
+requires-python = ">=3.11"
+license = {text = "Unlicense"}
+dependencies = []
+
+[tool.uv.sources]
+rongorongo-engine = { path = "../lang/rongorongo-engine", editable = true }
+
+[project.scripts]
+rt = "rongorongo_tau.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
