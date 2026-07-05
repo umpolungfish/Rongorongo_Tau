@@ -6,11 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
 **Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
 
-
 **A ritual formula variation tracker for Easter Island rongorongo.**  
 All 24 tablets share >98% structural similarity — they are one liturgy in many copy-performances. The Tau tracks substitution patterns across Barthel glyph families and maps the Z₂ boustrophedon cycle.
-
-**Author:** Lando⊗⊙perator
 
 ## Quick Start
 
@@ -70,7 +67,6 @@ The invariant FRGATE→STAFF→TWIN→VSPACE core cycle recurs across all tablet
 
 # Rongorongo Tau — Ritual Formula Variation Tracker
 
-**Author:** Lando⊗⊙perator  
 **Tuple:** ⟨𐑼𐑥𐑾𐑬𐑱𐑧𐑚𐑠𐑮𐑒𐑳𐑴⟩  
 **Ouroboricity:** O₂†  
 **C-score:** 0.317  
