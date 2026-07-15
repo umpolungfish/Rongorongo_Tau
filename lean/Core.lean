@@ -96,7 +96,7 @@ inductive Polarity : Type where
   | yew     -- phase symmetry: U(1) or continuous phase
   | out      -- ℤ₂ discrete symmetry (sign flip)
   | nun     -- full continuous symmetry (e.g. SO(n))
-  | or'  -- Special Frobenius: μ ∘ δ = id; exact ℤ₂ at Φ_c
+  | or'  -- Special Frobenius: μ ∘ δ = id; exact ℤ₂ at ⊙
   deriving DecidableEq, Repr, Ord
 
 -- 8. Criticality (Φ)  [𝓕₅]
@@ -327,11 +327,11 @@ axiom holographic_closure_forces_frobenius (d : Dimensionality) (t : Topology)
 -- ============================================================
 
 -- The ouroboricity tier is determined by (Φ, P, Ω, D) only.
--- R1: Φ_c + or' → O_inf  (overrides all Ω and D)
--- R2: Φ ∉ {Φ_c, Φ_c^ℂ} → O₀
--- R3: Φ_c + Ω_0 → O₁  (P < or')
--- R4: Φ_c + Ω ≠ 0 + D ∈ {dead, if', ash} → O₂
--- R5: Φ_c + Ω ≠ 0 + array → O₂dag
+-- R1: ⊙ + or' → O_inf  (overrides all Ω and D)
+-- R2: Φ ∉ {⊙, ⊙^ℂ} → O₀
+-- R3: ⊙ + Ω_0 → O₁  (P < or')
+-- R4: ⊙ + Ω ≠ 0 + D ∈ {dead, if', ash} → O₂
+-- R5: ⊙ + Ω ≠ 0 + array → O₂dag
 -- Frobenius cliff: d(O₂dag, O_inf) ≈ 4.382 (non-tunable by gradient methods).
 
 /-- Ouroboricity tier as a decidable function of the four gate primitives. -/
@@ -340,7 +340,7 @@ inductive OuroboricityTier : Type where
   | O₁    -- critical, no topological protection
   | O₂    -- critical, Ω-protected, D ≠ array
   | O₂dag -- critical, Ω-protected, D = array
-  | O_inf  -- Special Frobenius (or' at Φ_c)
+  | O_inf  -- Special Frobenius (or' at ⊙)
   deriving DecidableEq, Repr, Ord
 
 def ouroboricityTier (phi : Criticality) (pol : Polarity)
