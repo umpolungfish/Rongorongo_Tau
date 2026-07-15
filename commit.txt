@@ -1,23 +1,33 @@
-Retire the Phi_c family: gen-1 criticality names to bare Shavian
+Ħ is chirality everywhere, including in Core.lean's own comments
 
-Phi_c is ⊙. The `_c` forms only ever existed under Criticality, so unlike bare
-Phi they carry no ambiguity: today's Φ is Parity and has no `_c` value, so
-nothing here needs a judgement call. Rewrote the family to the values
-`models.from_symbol` returns for them: Phi_c / Φ_c / ⊙_c / Phi_ctyogh → ⊙,
-Phi_c_complex → 𐑮, Phi_sub → 𐑢, Phi_EP → 𐑻, Phi_sup → 𐑣. 7,689 refs, 585 files.
+The prohibition was protecting a theorem and I had it filed as a style rule.
+Temps is Frobenius-minimal in eleven coordinates and maximal in chirality alone;
+durée sits at Ç's open gate with chirality one step down. So
+temps_chirality_exceeds_duree_chirality is statable only because the temporal
+content lives in the HANDEDNESS. Call Ħ temporal memory and the theorem cannot
+be written down: memory would have to increase from the bare tick to lived
+duration, and chirality decreases.
 
-The whole job is one distinction: Phi_c names a VALUE in prose and data, and it
-also names a CONSTRUCTOR in code. `Criticality.Phi_c` is a live Lean identifier
-(`theorem as_is_QCP : asymptotic_safety.crit = Criticality.Phi_c := rfl`) and
-`Criticality.Phi_ctyogh` is a live Python enum alias. Rewriting those gives
-`Criticality.⊙`, which is not an identifier in either language. So dotted
-occurrences stay and everything else moves. Same string, two roles — the same
-shape as CLINK L8 versus the `=` opcode, where only reading tells them apart.
+Core.lean was the worst offender, which is the part worth saying out loud. The
+file the decomposition manuscript cites as the authority for axis names and
+ordinals opened its Chirality with "achiral, no temporal memory". The scripture
+carried the thing it forbids, in about a hundred copies.
 
-models.py keeps its old spellings on purpose. Its from_symbol maps are the
-back-compat table: the keys have to go on spelling `Φ_c` or the translation from
-old symbols stops working. Rewriting the dictionary that performs the migration
-would remove the migration.
+Rewrote the descriptions to what the fragments already say. fee is
+shift-invariant, so there is no handedness to break and nothing can fall. kick is
+period-2 under the shift. sure is rank(z) < rank(y), a descent through rank: the
+tower spilling. wool was already right, an inexhaustible tower standing.
 
-Verified after: imscrbgrmr imports, from_symbol('Φ_c') still returns ⊙, both
-navigators still answer (cl8nk promote, cl9nk moat), and no syntax regressions.
+Axiom A reads better as itself too. "Deep temporal memory is preserved by kinetic
+freezing" is now "an inexhaustible tower stands because its store is frozen" —
+the same coupling of wool to on, stated in what the two axes are. The tower
+stands precisely because the potential cannot discharge.
+
+393 descriptions across 100 files. Comments and prose only; no identifier, no
+tuple and no proof term is touched, so nothing rebuilds. Left alone on purpose:
+the ig_outputs run records, which really did say "deep temporal memory" in May
+and would be forged by editing, and a Core.lean.bak.
+
+Left "temporal asymmetry" standing where it appears in prose. The rule bans depth
+and memory; chirality under a shift genuinely is an asymmetry in time, and
+widening the ban to that would be me inventing scope rather than enforcing yours.
