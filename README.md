@@ -1,6 +1,6 @@
 # Rongorongo Tau
 
-![language](https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![tier](https://img.shields.io/badge/tier-O%E2%88%9E-8A2BE2?style=for-the-badge) ![μ∘δ](https://img.shields.io/badge/%CE%BC%E2%88%98%CE%B4-id-00A86B?style=for-the-badge) ![licence](https://img.shields.io/badge/licence-LUNLICENSE-1A1A1A?style=for-the-badge)
+![language](https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![corpus](https://img.shields.io/badge/corpus-one%20liturgy%2C%2024%20copies-8B6914?style=for-the-badge) ![tier](https://img.shields.io/badge/tier-O%E2%88%9E-8A2BE2?style=for-the-badge) ![μ∘δ](https://img.shields.io/badge/%CE%BC%E2%88%98%CE%B4-id-00A86B?style=for-the-badge) ![licence](https://img.shields.io/badge/licence-LUNLICENSE-1A1A1A?style=for-the-badge)
 
 **A ritual formula variation tracker for Easter Island rongorongo.**  
 All 24 tablets share >98% structural similarity — they are one liturgy in many copy-performances. The Tau tracks substitution patterns across Barthel glyph families and maps the Z₂ boustrophedon cycle.
