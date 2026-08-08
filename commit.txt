@@ -1,33 +1,5 @@
-Ħ is chirality everywhere, including in Core.lean's own comments
+Rename the CLI entry point rt → rongorongo, and guard the optional engine import
 
-The prohibition was protecting a theorem and I had it filed as a style rule.
-Temps is Frobenius-minimal in eleven coordinates and maximal in chirality alone;
-durée sits at Ç's open gate with chirality one step down. So
-temps_chirality_exceeds_duree_chirality is statable only because the temporal
-content lives in the HANDEDNESS. Call Ħ temporal memory and the theorem cannot
-be written down: memory would have to increase from the bare tick to lived
-duration, and chirality decreases.
-
-Core.lean was the worst offender, which is the part worth saying out loud. The
-file the decomposition manuscript cites as the authority for axis names and
-ordinals opened its Chirality with "achiral, no temporal memory". The scripture
-carried the thing it forbids, in about a hundred copies.
-
-Rewrote the descriptions to what the fragments already say. fee is
-shift-invariant, so there is no handedness to break and nothing can fall. kick is
-period-2 under the shift. sure is rank(z) < rank(y), a descent through rank: the
-tower spilling. wool was already right, an inexhaustible tower standing.
-
-Axiom A reads better as itself too. "Deep temporal memory is preserved by kinetic
-freezing" is now "an inexhaustible tower stands because its store is frozen" —
-the same coupling of wool to on, stated in what the two axes are. The tower
-stands precisely because the potential cannot discharge.
-
-393 descriptions across 100 files. Comments and prose only; no identifier, no
-tuple and no proof term is touched, so nothing rebuilds. Left alone on purpose:
-the ig_outputs run records, which really did say "deep temporal memory" in May
-and would be forged by editing, and a Core.lean.bak.
-
-Left "temporal asymmetry" standing where it appears in prose. The rule bans depth
-and memory; chirality under a shift genuinely is an asymmetry in time, and
-widening the ban to that would be me inventing scope rather than enforcing yours.
+rt was too collision-prone; rongorongo is unambiguous. __init__ eagerly
+imported a session module the engine does not ship, breaking the import
+though the CLI never uses it — now optional, sys.path shim dropped.

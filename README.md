@@ -12,13 +12,13 @@ cd Rongorongo_Tau
 pip install -e .
 
 # Look up a glyph family
-rt lookup G006
+rongorongo lookup G006
 
 # List all tablets with their tuples
-rt list
+rongorongo list
 
 # Trace variation across a glyph sequence
-rt trace G006 G023 G002 G024
+rongorongo trace G006 G023 G002 G024
 ```
 
 ## Structural Type
